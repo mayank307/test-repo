@@ -1,0 +1,24 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+div {
+    background-color: #0f1111;
+    height: 60px;
+}
+.corange {
+    color: orange;
+    font-size: 25px;
+    margin-right: 200px;
+}
+.cwhite {
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+    
+}
+button {
+    background-color: #f08804;
+    color: white;
+}
