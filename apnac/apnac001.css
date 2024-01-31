@@ -43,16 +43,18 @@ h3 {
     margin: 5px;
     text-align: center;
     border-radius: 15px;
+    display: inline;
 }
 #testhand1 {
     width: 70px;
     height: 125px;
     border : 2px solid rgb(20, 20, 87);
-    background-color: pink;
+    background-color: pink; 
     padding: 20px;
     padding-bottom: 50px;
     margin: 5px;
     text-align: center;
+    background-color: rgba(255, 192, 203, 0.75)
 }
 #testhand2 {
     width: 70px;
