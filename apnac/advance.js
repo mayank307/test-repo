@@ -1,4 +1,10 @@
-let num01 = prompt("enter a number");
-console.log(num01);
-result = num01%5==0 ? true : false;
-console.log(result);
+//
+arr=[2,5,6,11,13,23];
+
+arr.forEach((val)=>{
+    let sq=0;
+    sq=val*val;
+    console.log(sq);
+}
+
+);
